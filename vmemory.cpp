@@ -4,7 +4,7 @@
 
 int main(int argc, const char* argv[])
 {
-    Manager test;
+    Manager run;
     test.simulate();
     return 0;
 }
