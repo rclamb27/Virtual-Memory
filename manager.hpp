@@ -95,7 +95,7 @@ public:
     }
 
    
-    void simulate()
+    void run()
     {
         int overall{}, correct{};
         int value, cvalue;
